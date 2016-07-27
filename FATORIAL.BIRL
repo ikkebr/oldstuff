@@ -1,0 +1,25 @@
+OH O HOME AI PO (long MUITAPECA(long x, long y))
+    BORA CUMPADE x*y;
+BIRL 
+
+
+HORA DO SHOW
+    int numero;
+    long long kaceta;
+    int i;
+    kaceta = 1;
+    CE QUER VER ESSA PORRA? ("Fatorial de quanto mutante?"); 
+    QUE QUE CE QUER MONSTRAO? ("%d", &numero); 
+    
+    MAIS QUERO MAIS (i = 1; i <= numero; i++)
+        kaceta = AJUDA O MALUCO TA DOENTE MUITAPECA(kaceta,i);
+    BIRL 
+    
+    ELE QUE A GENTE QUER? (numero > 12)
+        CE QUER VER ESSA PORRA? ("FODEU.");
+    NAO VAI DAR NAO
+        CE QUER VER ESSA PORRA? ("\nNão sei calcular, mas deu %d.\n", kaceta); 
+    BIRL
+    
+    BORA CUMPADE 0;
+BIRL
